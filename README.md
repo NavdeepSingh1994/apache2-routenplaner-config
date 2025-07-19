@@ -1,4 +1,4 @@
-# Apache2 Webserver-Konfiguration für VAO Routenplaner
+# Apache2 Webserver-Konfiguration für VAO Routenplaner (Aufgabe 2)
 
 Dieses Repository enthält die vollständige Apache2-Konfiguration für den VAO-Routenplaner-Dienst. Ziel ist es, Webinhalte für verschiedene Domains bereitzustellen und eine API-Struktur abzubilden.
 
